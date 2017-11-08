@@ -12,10 +12,9 @@ Short description, to the point without detail.
 ## Prerequisite
 Help people prepare, and safe yourself time -  clearly state what needs to happen before this task is picked up.  
 
-## Task Steps
+## Item list:
 List what people need to do to complete this task.  Use checkboxes to help people (and you) track their progress.
 
-## Item list:
 - [ ] Individual item that should happen 
 - [ ] Individual item that should happen 
 
