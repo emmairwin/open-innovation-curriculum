@@ -16,8 +16,8 @@ Help people prepare, and safe yourself time -  clearly state what needs to happe
 List what people need to do to complete this task.  Use checkboxes to help people (and you) track their progress.
 
 ## Item list:
-- [ ] Individual item that should happen (R:)
-- [ ] Individual item that should happen (R:)
+- [ ] Individual item that should happen 
+- [ ] Individual item that should happen 
 
 ## Recognition
 If someone completes this task, how will they feel successful?   This is nice for new contributors, but it's a good habit to get into 
