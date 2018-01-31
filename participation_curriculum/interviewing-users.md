@@ -1,19 +1,12 @@
-#Interviewing Users for Mozilla
+# Interviewing in Open Source Communities
 
-![ls](https://c1.staticflickr.com/9/8573/16314995058_37c67cb6f9_c.jpg)
-[<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
-* * *
+This resource lv[Interviewing Users](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872) to effectively prepare you for research interviews (including focus groups), with a lens on Open Source Communities.
 
-## Get the Book
+#### Materials
 
 Open Innovation has a copy of this book, you can also purchase it from [Rosenfeld Media](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872).
 
-[![book](http://t3.gstatic.com/images?q=tbn:ANd9GcTL9htQLLJ8rmj9xBfDf-d1Wr_ObL7F5HjMas3B2YOVul6b9X3V)
-
-
-#### Introduction
-
-This resource lv[Interviewing Users](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872) to effectively prepare you for research interviews (including focus groups), with a lens on Open Source Communities.
+![book](http://t3.gstatic.com/images?q=tbn:ANd9GcTL9htQLLJ8rmj9xBfDf-d1Wr_ObL7F5HjMas3B2YOVul6b9X3V)
 
 
 ## 1. Interview Planning
@@ -34,7 +27,7 @@ In your book...
 * Create a screening List.
 * Creating a field guide.
 
-### Self Assessment
+##### Self Assessment
 
 * What is the best mindset for interviewing people? What are ways to get into this mindset?
 * What are the benefits of interviewing people where they live or work?
@@ -56,7 +49,7 @@ In your book:
 * Read Chapter 6 “ How to Ask Questions ”.
 * [Watch these](https://www.youtube.com/watch?v=9t-_hYjAKww) examples of poorly, and well done interview examples.
 
-#### Bonus Reading
+##### Bonus Reading
 
 * [Never Ask What They Want - 3 Better Questions to Ask in User Interviews](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e#.6gp9d4wx2)
 * Interviewing Best Practices from [Stephen Colbert](http://rosenfeldmedia.com/interviewing-users/interviewing-practices-from-stephen-colbert/).
