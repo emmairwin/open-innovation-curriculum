@@ -8,7 +8,7 @@
 
 Open Innovation has a copy of this book, you can also purchase it from [Rosenfeld Media](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872).
 
-[![book](http://rosenfeldmedia.com/wp-content/uploads/2014/10/interviewing-users.jpg)](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872)
+[![book](http://t3.gstatic.com/images?q=tbn:ANd9GcTL9htQLLJ8rmj9xBfDf-d1Wr_ObL7F5HjMas3B2YOVul6b9X3V)
 
 
 #### Introduction
