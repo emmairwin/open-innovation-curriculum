@@ -4,13 +4,17 @@
 [<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
 * * *
 
-## Materials
+## Get the Book
 
-* [Interviewing Users: How to Uncover Compelling Insights](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872)
+Open Innovation has a copy of this book, you can also purchase it from [Rosenfeld Media](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872).
+
+[![book](http://rosenfeldmedia.com/wp-content/uploads/2014/10/interviewing-users.jpg)](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872)
+
 
 #### Introduction
 
-This resource is intended to effectively prepare you for research interviews (including focus groups), with a lens on Open Source Communities.
+This resource lv[Interviewing Users](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872) to effectively prepare you for research interviews (including focus groups), with a lens on Open Source Communities.
+
 
 ## 1. Interview Planning
 
@@ -18,7 +22,11 @@ This section helps you setup an interview guide, which includes creating materia
 
 ![fieldnotes](https://c1.staticflickr.com/9/8806/17743377585_c15e637587.jpg)
 
-Read Chapters 2 & 3 of Interviewing Users.
+In your book...
+
+* Read Chapter 2 “A Framework for Interviewing".
+* Read Chapter 3 "Getting Ready to Conduct Your Interviews".
+
 
 ##### Highlights
 
@@ -51,6 +59,7 @@ In your book:
 #### Bonus Reading
 
 * [Never Ask What They Want - 3 Better Questions to Ask in User Interviews](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e#.6gp9d4wx2)
+* Interviewing Best Practices from [Stephen Colbert](http://rosenfeldmedia.com/interviewing-users/interviewing-practices-from-stephen-colbert/).
 
 ## 4. Follow-Up
 
