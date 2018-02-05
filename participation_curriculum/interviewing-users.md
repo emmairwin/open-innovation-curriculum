@@ -1,6 +1,6 @@
 # Interviewing in Open Source Communities
 
-This resource lv[Interviewing Users](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872) to effectively prepare you for research interviews (including focus groups), with a lens on Open Source Communities.
+This is a condensed version of 'Intervewing Users for Mozilla' designed to help you to effectively prepare for research interviews (including focus groups), with a lens on Open Source Communities.  This resource does require the book listed below, if you require a copy please email Emma Irwin (eirwin @ mozilla dot com).
 
 #### Materials
 
