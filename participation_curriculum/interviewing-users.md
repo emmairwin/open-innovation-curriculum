@@ -1,6 +1,6 @@
 # Interviewing in Open Source Communities
 
-This is a condensed version of 'Intervewing Users for Mozilla' designed to help you to effectively prepare for research interviews (including focus groups), with a lens on Open Source Communities.  This resource does require the book listed below, if you require a copy please email Emma Irwin (eirwin @ mozilla dot com).
+This is a condensed version of 'Intervewing Users for Mozilla' designed to help you to effectively prepare for research interviews (including focus groups), with a lens on Open Source Communities.  This resource does require the book listed below, if you are part of a Mozilla community research project, and require a copy please email Emma Irwin (eirwin @ mozilla dot com).
 
 #### Materials
 
